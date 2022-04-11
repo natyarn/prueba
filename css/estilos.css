@@ -1,0 +1,17 @@
+* {margin: 0%;}
+body {font-family: 'Dancing Script', cursive; background-color: azure;}
+header {text-align: center; font-size: large; background-color: rgb(213, 247, 248);}
+header h1 {color:lightslategrey;}
+div {background-color: azure;}
+ul {list-style-type: none; display: flex; flex-wrap: nowrap; justify-content: center; justify-content: space-evenly;}
+a {text-decoration: none; color: lightslategray; font-weight: bold; font-size: xx-large; background-color: #ffe4c4; border: solid 2px; margin: 10px; padding: 5px; width: fit-content; display: block; float: left;}
+section p {color: gray; font-weight:bold; font-size: xx-large;margin-top: 0px; margin-right: 20px; text-align:right;}
+main {height: 750px; margin-top: 0%; background-size: cover; background-repeat: no-repeat; background-image:url(https://2.bp.blogspot.com/-U2POERIGNcU/VmbmzMrkOiI/AAAAAAAAFOQ/HNINyylTpyo/s1600/madretierra.png);}
+footer {display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; align-content: center;}
+footer a {border: 0px; background-color: azure;}
+h1 {text-align: left; color: lightslategray; font-size: x-large;}
+form p {color: lightslategray; text-align: center; font-size: xx-large; font-weight: bold; margin-left: 10px;}
+input {margin-left: 530px; width: 300px; height: 40px; border-color:black; border-style:solid; background-color: antiquewhite; font-size: x-large; font-family: 'Dancing Script';}
+textarea {margin-left: 490px; border-color: black; border-style:solid; background-color: antiquewhite;}
+ul li {color: lightslategray; font-size: x-large; font-weight: bold; text-align: left;}
+.preguntas {width: 800px; height: 50px; margin: 20px; padding: 10px; border:0ch; font-size: x-large; color: lightslategray; font-weight: bold;}
